@@ -6,4 +6,5 @@ This is a page that shows a video using:
 First configure the VideoView with the path of the video to be played and then start the playback.
 To make the user control the playback then use the MediaController.
 
-![Screenshot 2023-09-17 204524](https://github.com/Shrouk-Ashraf/videoView/assets/68174886/352f5ae2-18c7-4d5d-b18a-6d49b4c49d05)
+
+![Screenshot 2023-09-17 204524](https://github.com/Shrouk-Ashraf/VideoView/assets/68174886/b0d557c0-e552-43ba-ae87-7f9941e4de48)
